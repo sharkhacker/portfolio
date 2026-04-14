@@ -26,6 +26,9 @@ export const metadata: Metadata = {
     "Product Engineer",
     "SingleStore",
   ],
+  icons: {
+    icon: "/favicon.svg",
+  },
   openGraph: {
     title: "Shrikant More | Backend + Data + AI + Product",
     description:
